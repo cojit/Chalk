@@ -2,4 +2,4 @@ Chalk
 =====
 Check all keenly.
 
-Easily Check Sheet Generator 
+Auto Check Sheet Generator  
